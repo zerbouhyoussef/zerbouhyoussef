@@ -5,7 +5,6 @@
     <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-v">Youssef</span> <span class="pl-c1">=</span> {
         <span class="pl-s1">pronouns</span>: <span class="pl-s">'He/Him'</span>,
         <span class="pl-s1">location</span>: <span class="pl-s">'Tanger, MO'</span>,
-        <span class="pl-s1">current_role</span>: <span class="pl-s">'Data science Student</span>,
     }</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
         <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Youssef = {
                 pronouns: 'he/him',
