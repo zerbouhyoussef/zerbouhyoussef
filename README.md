@@ -1,35 +1,82 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 dir="auto"><a id="user-content-hannah-gooding-" class="anchor" aria-hidden="true" tabindex="-1" href="#hannah-gooding-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Youssef cooding 👨‍💻&zwj;</h1>
-    <p dir="auto"><a href="#########" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/youssefzerbouh.dev-green%22%20alt%3D%22Custom%20Badge%22%3E" style="max-width: 100%;"></a>
-    <a href="https://www.linkedin.com/in/youssef-zerbouh-39502b262/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/youssef_zerbouh-blue?style=flat&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
-         <a href="#########" rel="nofollow"><img alt="Static Badge" src="https://www.codewars.com/users/Youssefzrr/badges/micro" style="max-width: 100%;"></a>
-    <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-v">Youssef</span> <span class="pl-c1">=</span> {
-        <span class="pl-s1">pronouns</span>: <span class="pl-s">'He/Him'</span>,
-        <span class="pl-s1">location</span>: <span class="pl-s">'Tanger, MO'</span>,
-    }</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-        <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Youssef = {
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+    <h1 dir="auto"><a id="user-content-youssef-cooding-" class="anchor" aria-hidden="true" tabindex="-1" href="#youssef-cooding-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Youssef cooding 👨‍💻&zwj;</h1>
+    <p dir="auto">
+        <a href="#########" rel="nofollow">
+            <img alt="Static Badge" src="https://img.shields.io/badge/youssefzerbouh.dev-green%22%20alt%3D%22Custom%20Badge%22%3E" style="max-width: 100%;">
+        </a>
+        <a href="https://www.linkedin.com/in/youssef-zerbouh-39502b262/" rel="nofollow">
+            <img alt="Static Badge" src="https://img.shields.io/badge/youssef_zerbouh-blue?style=flat&logo=linkedin&logoColor=white" style="max-width: 100%;">
+        </a>
+        <a href="#########" rel="nofollow">
+            <img alt="Static Badge" src="https://www.codewars.com/users/Youssefzrr/badges/micro" style="max-width: 100%;">
+        </a>
+    </p>
+    <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+        <pre><span class="pl-v">Youssef</span> <span class="pl-c1">=</span> {
+            <span class="pl-s1">pronouns</span>: <span class="pl-s">'He/Him'</span>,
+            <span class="pl-s1">location</span>: <span class="pl-s">'Tanger, MO'</span>,
+        }</pre>
+        <div class="zeroclipboard-container position-absolute right-0 top-0">
+            <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Youssef = {
                 pronouns: 'he/him',
                 location: 'Tanger,MO',
                 current_role: 'Data science Student',
-            }
-    " tabindex="0" role="button" style="display: none;">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-        <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-    </svg>
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success m-2 d-none">
-        <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-    </svg>
-        </clipboard-copy>
-      </div></div>
+            }" tabindex="0" role="button" style="display: none;">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+                    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path>
+                    <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+                </svg>
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success m-2 d-none">
+                    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+                </svg>
+            </clipboard-copy>
+        </div>
+    </div>
     <h2 dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" tabindex="-1" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Tech Stack 🥞</h2>
-    <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d910ff20216dd1e603569e7807fa54c0000c0354e6fed3f674863080c4fec30b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3135373242363f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465266c696e6b3d2f"><img src="https://camo.githubusercontent.com/d910ff20216dd1e603569e7807fa54c0000c0354e6fed3f674863080c4fec30b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3135373242363f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465266c696e6b3d2f" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-1572B6?style=flat&amp;logo=python&amp;logoColor=white&amp;link=/" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d84346834782883c91f4a71278173ef23bef6d44f4d16455c9f54f12ed1513cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3135373242363f7374796c653d666c6174266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465266c696e6b3d2f">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd6ef416683dec0e378e904a42bfb782c404e36ea2bffe933459bdf950a5086a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3135373242363f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465266c696e6b3d2f"><img src="https://camo.githubusercontent.com/dd6ef416683dec0e378e904a42bfb782c404e36ea2bffe933459bdf950a5086a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3135373242363f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465266c696e6b3d2f" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-1572B6?style=flat&amp;logo=javascript&amp;logoColor=white&amp;link=/" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9d647fb31fe1229cd7c8e5d3d82d8c65f0177aa8b4800932811254a0931f25b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3135373242363f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465266c696e6b3d2f"><img src="https://camo.githubusercontent.com/a9d647fb31fe1229cd7c8e5d3d82d8c65f0177aa8b4800932811254a0931f25b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3135373242363f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465266c696e6b3d2f" alt="React" data-canonical-src="https://img.shields.io/badge/-React-1572B6?style=flat&amp;logo=react&amp;logoColor=white&amp;link=/" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0253f5ffe02c965e7fb63a680f46cf50e3ee3e5eb501ba56e65d1fcb86583ea6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3135373242363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c696e6b3d2f"><img src="https://camo.githubusercontent.com/0253f5ffe02c965e7fb63a680f46cf50e3ee3e5eb501ba56e65d1fcb86583ea6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3135373242363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c696e6b3d2f" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-1572B6?style=flat&amp;logo=html5&amp;logoColor=white&amp;link=/" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/730e42a3337c23696c982406f7f2f945f7a8cbbd8d45b813dadf91a66e3f3fb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465266c696e6b3d2f"><img src="https://camo.githubusercontent.com/730e42a3337c23696c982406f7f2f945f7a8cbbd8d45b813dadf91a66e3f3fb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465266c696e6b3d2f" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white&amp;link=/" style="max-width: 100%;"></a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=white">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/45c9a6510338576ad8655d2f16538a51ca0debe9fc7f22f684b54b8d2841d21a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7374677265732d3135373242363f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465266c696e6b3d2f">  <br>
+    <p dir="auto">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
+        </a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
+        </a>
+    </p>
     <h2 dir="auto"><a id="user-content-getting-into-tech-" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-into-tech-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Getting Into Tech 🤖</h2>
     <p dir="auto"></p>
-    </article>
-    
+</article>
