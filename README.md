@@ -4,7 +4,7 @@
         <a href="#########" rel="nofollow">
             <img alt="Static Badge" src="https://img.shields.io/badge/youssefzerbouh.dev-green%22%20alt%3D%22Custom%20Badge%22%3E" style="max-width: 100%;">
         </a>
-        <a href="https://www.linkedin.com/in/youssef-zerbouh-39502b262/" rel="nofollow">
+        <a href="https://www.linkedin.com/in/youssef-zerbouh/" rel="nofollow">
             <img alt="Static Badge" src="https://img.shields.io/badge/youssef_zerbouh-blue?style=flat&logo=linkedin&logoColor=white" style="max-width: 100%;">
         </a>
         <a href="#########" rel="nofollow">
